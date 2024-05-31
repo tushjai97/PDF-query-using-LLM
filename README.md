@@ -16,5 +16,7 @@ Natural Language Queries: Process natural language queries using ChatGPT to unde
 Technologies Used
 
 Langchain: A library designed to bridge language models and applications, facilitating the integration of LLMs into various systems.
+
 OpenAI's ChatGPT: A cutting-edge language model used for understanding and generating human-like text based on the input queries.
+
 Apache Cassandra: A highly scalable NoSQL database that manages large volumes of data across multiple servers, providing high availability with no single point of failure.
